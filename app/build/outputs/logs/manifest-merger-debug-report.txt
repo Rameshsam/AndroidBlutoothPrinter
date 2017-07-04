@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:html-textview:3.4] C:\Users\Ramesh Sambu\.android\build-cache\e83117fab002d36de65330aabfd9e5c8e9483553\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jrummyapps:html-builder:1.0.0] C:\Users\Ramesh Sambu\.android\build-cache\c5b1eb97a31cb7b614cc761762c57097326a8e73\output\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:11:5-88
+	android:required
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:11:61-85
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:11:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:13:22-71
+application
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [org.sufficientlysecure:html-textview:3.4] C:\Users\Ramesh Sambu\.android\build-cache\e83117fab002d36de65330aabfd9e5c8e9483553\output\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:19:9-40
+activity#net.londatiga.android.bluebamboo.BluttoothPrinterHelper
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:22:13-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from F:\Restaurant 2017 projects\P25Demo-master\app\src\main\AndroidManifest.xml:28:27-74

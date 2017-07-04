@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramesh Sambu\.android\build-cache\c5b1eb97a31cb7b614cc761762c57097326a8e73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af3fcea9a0c42521098808cec4ba34db6b89eefa">
+        <dex dex="F:\Restaurant 2017 projects\P25Demo-master\app\build\intermediates\pre-dexed\debug\classes_2bbbaa35c18eb6f3bef3d7e5ad50004828a8691a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramesh Sambu\.android\build-cache\e83117fab002d36de65330aabfd9e5c8e9483553\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f605faacb3f1ce7d4dd113b87af73ba33225864f">
+        <dex dex="F:\Restaurant 2017 projects\P25Demo-master\app\build\intermediates\pre-dexed\debug\classes_72431dbc9a6f1ec5dc780eb4c3ce3c67a43f9afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\Restaurant 2017 projects\P25Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_7bd6d4ed71b4eca78c25ffb8d6bdac0b1ec16811.jar" />
+    </item>
+
+</items>

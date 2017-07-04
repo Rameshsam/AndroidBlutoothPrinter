@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="html-builder-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c5b1eb97a31cb7b614cc761762c57097326a8e73/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c5b1eb97a31cb7b614cc761762c57097326a8e73/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jrummyapps/html-builder/1.0.0/6bdb99021ecb07b8da199994211d170707961fb5/html-builder-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

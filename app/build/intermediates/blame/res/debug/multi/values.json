@@ -1,0 +1,469 @@
+[
+    {
+        "outputFile": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 52,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 45,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 45,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endLine": 7,
+                    "endColumn": 59,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 4,
+                        "endColumn": 56,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 52,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 52,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 63,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 63,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 61,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 61,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 48,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 464,
+                        "endColumn": 48,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 68,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 68,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 53,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 53,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 66,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 66,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 61,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 61,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 67,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 67,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 42,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endColumn": 42,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 60,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 60,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 54,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 54,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 56,
+                    "endOffset": 1154
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 56,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1159,
+                    "endColumn": 60,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 60,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 54,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 54,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 58,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 58,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 55,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 55,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "F:\\Restaurant 2017 projects\\P25Demo-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

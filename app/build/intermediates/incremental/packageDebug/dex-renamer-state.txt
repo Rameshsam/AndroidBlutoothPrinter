@@ -1,0 +1,4 @@
+#Tue Jul 04 17:28:39 IST 2017
+base.0=F\:\\Restaurant 2017 projects\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\Restaurant 2017 projects\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

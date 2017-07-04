@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "net.londatiga.android.bluebamboo"
+        minSdkVersion 11
+        targetSdkVersion 17
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'org.sufficientlysecure:html-textview:3.4'
+    compile 'com.jrummyapps:html-builder:1.0.0'
+}
